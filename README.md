@@ -70,6 +70,8 @@ $ make
 ## 使用指南
 
 [IAM Documentation](docs/guide/zh-CN)
+## 流程图
+![](./901655363290_.pic_hd.jpg)
 
 ## 如何贡献
 
@@ -84,6 +86,7 @@ You are encouraged to communicate most things via [GitHub issues](https://github
 - Lingfei Kong <colin404@foxmail.com>
 
 为了方便交流，我建了微信群，可以加我 **微信：nightskong**，拉你入群，方便交流。
+
 
 ## 谁在用
 
